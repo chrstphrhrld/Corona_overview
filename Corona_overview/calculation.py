@@ -63,6 +63,12 @@ class Calculation():
             print("WARNUNG!!!")
         return ratio
 
+# PR test def
+    def calcCoolStuff(self):
+        myInt = 100
+        myDec = 0,59
+        if myInt > myDec:
+            return myInt / myDec
 
 # Für Test:
 
