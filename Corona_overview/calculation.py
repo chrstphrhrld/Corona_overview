@@ -70,6 +70,13 @@ class Calculation():
         if myInt > myDec:
             return myInt / myDec
 
+# PR test def 2
+    def calcCoolStuff2(self):
+        myInt = 100
+        myDec = 0,59
+        if myInt > myDec:
+            return myInt / myDec
+
 # Für Test:
 
 #calculation = Calculation(abfrage)
